@@ -11,12 +11,20 @@
     "lint": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Arman",
   "license": "MIT",
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
     "@types/node": "^20.10.4",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arman-developer/test-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arman-developer/test-repo/issues"
+  },
+  "homepage": "https://github.com/arman-developer/test-repo#readme"
 }
